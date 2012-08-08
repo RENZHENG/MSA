@@ -10,7 +10,8 @@
 Role::Role() {
 }
 
-Role::Role(const Role& orig) {
+Role::Role(const Role& orig1) {
+  // TODO: implement this funtion
 }
 
 Role::~Role() {
