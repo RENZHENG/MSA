@@ -7,14 +7,15 @@
 
 #ifndef USER_H
 #define	USER_H
-// manage user account
+
 class User {
 public:
     User();
-    User(const User& ori);
+    User(const User& orig);
     virtual ~User();
 private:
 
 };
+
 #endif	/* USER_H */
 

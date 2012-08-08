@@ -10,7 +10,7 @@
 User::User() {
 }
 
-User::User(const User& ori) {
+User::User(const User& orig) {
 }
 
 User::~User() {
